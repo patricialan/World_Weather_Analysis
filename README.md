@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# Vacation Weather
 
 ## Project Summary
 - Weather data for 550 cities was collected into a DataFrame using the OpenWeatherMap's "current weather data" API and the citipy module. 
